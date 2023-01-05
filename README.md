@@ -1,5 +1,5 @@
 ## Finance Calculators GUI  
-:arrow_right: (<a href="https://bit.ly/3vyy77A" target="_blank">Preview</a>)
+:arrow_right: (<a href="http://bit.ly/3ItFKDM" target="_blank">Preview</a>)
 
 
 ### Introduction
