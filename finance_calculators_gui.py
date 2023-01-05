@@ -512,5 +512,12 @@ while entry_index < element_total:
 # End: Entry/Button of the Bond  
 ########################################################################################################################
 
-# run the Tkinter event loop
-mainloop()
+
+# Nain function
+def main():
+    # run the Tkinter event loop
+    mainloop()
+
+# Set to call main function
+if __name__ == "__main__":
+    main()
